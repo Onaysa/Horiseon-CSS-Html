@@ -1,4 +1,4 @@
-# weather-js-application
+# 01 HTML, CSS, and Git: Code Refactor
 
 Deployed Application : (https://onaysa.github.io/Horiseon-CSS-Html/)
 
